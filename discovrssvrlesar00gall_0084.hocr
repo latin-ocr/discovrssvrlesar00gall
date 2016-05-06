@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./discovrssvrlesar00gall/discovrssvrlesar00gall_0084.png"; bbox 0 0 2336 3569; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 1536 2187 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 1530 2187 1966">
+     <span class='ocr_line' id='line_1_1' title="bbox 192 1536 2187 1748; baseline -0.017 -1"><span class='ocrx_word' id='word_1_1' title='bbox 192 1746 195 1747; x_wconf 5' lang='grc' dir='ltr'><em>ξ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 320 1596 361 1667; x_wconf 88' lang='grc'><strong>*</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 425 1722 427 1724; x_wconf 81' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 493 1536 1503 1740; x_wconf 36' lang='lat' dir='ltr'>S&#39;EP&#39;T51‡«-E‘S</span> <span class='ocrx_word' id='word_1_5' title='bbox 1577 1597 1872 1748; x_wconf 77' lang='grc' dir='ltr'>ΜΕ</span> <span class='ocrx_word' id='word_1_6' title='bbox 2031 1553 2187 1724; x_wconf 73' lang='grc'>’,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 843 1875 1718 1966; baseline -0.009 2"><span class='ocrx_word' id='word_1_7' title='bbox 843 1930 845 1933; x_wconf 25' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_8' title='bbox 982 1879 1075 1966; x_wconf 93' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1152 1875 1232 1960; x_wconf 87' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 1315 1878 1417 1964; x_wconf 89' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1715 1941 1718 1943; x_wconf 11' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
